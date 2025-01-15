@@ -8,7 +8,9 @@
 
 <h3 align="center">I am enthusiastic about web development and machine learning. I also enjoy designing UI and UX as a hobby.</h3>
 
-- 🌱 I’m currently learning **Next Js, Docker, & Flutter**
+- 🌱 I’m currently learning **Next Js, Nuxt Js, Docker, & Flutter**
+  
+- :globe_with_meridians: My portfolio website: [https://bagusperdanay7.github.io/](https://bagusperdanay7.github.io/)
 
 - 📝 My latest publication [https://ieeexplore.ieee.org/abstract/document/10396931](https://ieeexplore.ieee.org/abstract/document/10396931)
 
